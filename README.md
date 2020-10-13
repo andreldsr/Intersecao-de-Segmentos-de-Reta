@@ -1,0 +1,1 @@
+# Intersecao-de-Segmentos-de-Reta
